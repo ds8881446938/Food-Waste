@@ -4,5 +4,4 @@ matplotlib
 seaborn
 streamlit
 mysql.connector
-
 os
