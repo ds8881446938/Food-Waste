@@ -1,7 +1,3 @@
-numpy
+streamlit
 pandas
 matplotlib
-seaborn
-streamlit
-mysql.connector
-os
